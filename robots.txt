@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sanjuanhydrojetting.prosapp.site/sitemap.xml
